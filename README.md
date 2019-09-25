@@ -1,2 +1,2 @@
 # Research Trends
-> *The best paper is future Research Trends!*
+> *The Best Paper is future Research Trends!*
