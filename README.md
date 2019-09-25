@@ -16,5 +16,8 @@
     - [**\[Best Long Paper\]** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)
     - [**\[Best Short Paper\]** Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
     - [**\[Best Resource Paper\]** CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421)
+    - [**\[Best Thematic Paper\]** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424)
+    - [**\[Best Explainable NLP Paper\]** CNM: An Interpretable Complex-valued Network for Matching](https://www.aclweb.org/anthology/N19-1420)
+    
     
 
