@@ -7,6 +7,9 @@
     - [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
     - [The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7)
     
+  - [ICML 2019](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8)
+    - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
+    
   - [ACL 2019](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
     - [**\[THE BEST LONG PAPER\]** Bridging the Gap between Training and Inference for Neural Machine Translation.](https://www.aclweb.org/anthology/P19-1426)
     - [**\[THE BEST SHORT PAPER\]** Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment.](https://www.aclweb.org/anthology/P19-1412)
