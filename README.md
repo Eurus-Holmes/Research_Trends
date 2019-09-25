@@ -28,5 +28,8 @@
     - [**\[Best Thematic Paper\]** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424)
     - [**\[Best Explainable NLP Paper\]** CNM: An Interpretable Complex-valued Network for Matching](https://www.aclweb.org/anthology/N19-1420)
     
+  - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
+    - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
+    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
     
 
