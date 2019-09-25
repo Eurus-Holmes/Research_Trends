@@ -13,4 +13,8 @@
       - [Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](https://www.aclweb.org/anthology/P19-1568)
       
   - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
+    - [**\[Best Long Paper\]** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)
+    - [**\[Best Short Paper\]** Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
+    - [**\[Best Resource Paper\]** CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421)
+    
 
