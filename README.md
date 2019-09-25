@@ -1,2 +1,2 @@
-# Research_Trends
-Research_Trends
+# Research Trends
+> *The best paper is future Research Trends!*
