@@ -41,7 +41,7 @@
 - [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
     - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
     
-  - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
+ - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
     - [**\[Best Long Paper\]** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)
     - [**\[Best Short Paper\]** Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
     - [**\[Best Resource Paper\]** CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421)
