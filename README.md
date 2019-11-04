@@ -46,7 +46,7 @@
     
 # License
 
-See the [LICENSE](https://github.com/Eurus-Holmes/Research_Papers/blob/master/LICENSE) file for this project's licensing.
+See the [LICENSE](https://github.com/Eurus-Holmes/Research_Trends/blob/master/LICENSE) file for this repository's licensing.
  
     
 
