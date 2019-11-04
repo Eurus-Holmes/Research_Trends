@@ -15,11 +15,12 @@
   - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
     - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
     - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
     
   - [ICML 2019](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8)
     - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
  
-   - [ICCV 2019](https://medium.com/syncedreview/iccv-2019-best-papers-announced-27a1a21311e1)
+  - [ICCV 2019](https://medium.com/syncedreview/iccv-2019-best-papers-announced-27a1a21311e1)
     - [**\[Best Paper\]** SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
     - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
     
