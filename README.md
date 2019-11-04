@@ -25,6 +25,7 @@
   - [ICCV 2019](https://medium.com/syncedreview/iccv-2019-best-papers-announced-27a1a21311e1)
     - [**\[Best Paper\]** SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
     - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/ICCV2019/keywords.png)
     
   - [ACL 2019](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
     - [**\[THE BEST LONG PAPER\]** Bridging the Gap between Training and Inference for Neural Machine Translation.](https://www.aclweb.org/anthology/P19-1426)
