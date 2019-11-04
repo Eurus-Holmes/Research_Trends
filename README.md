@@ -1,7 +1,7 @@
 # (RT) Research Trends
 
-![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+[![Build Status](https://travis-ci.com/Eurus-Holmes/Research_Trends.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/Research_Trends)
+[![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 > Inspired by [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html) and [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics), this repository collects the Best Papers from the **DL&ML&NLP&CV** Top Conferences, also including statistics and visualization keywords of accepted papers from Top Conferences.
