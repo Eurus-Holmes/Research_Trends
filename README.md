@@ -43,7 +43,11 @@
     - [**\[Best Thematic Paper\]** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424)
     - [**\[Best Explainable NLP Paper\]** CNM: An Interpretable Complex-valued Network for Matching](https://www.aclweb.org/anthology/N19-1420)
     
+    
+# License
 
+See the [LICENSE](https://github.com/Eurus-Holmes/Research_Papers/blob/master/LICENSE) file for this project's licensing.
+ 
     
 
 
