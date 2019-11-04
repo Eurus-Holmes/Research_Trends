@@ -37,7 +37,10 @@
       - [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.aclweb.org/anthology/P19-1078)
       - [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267)
       - [Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](https://www.aclweb.org/anthology/P19-1568)
-      
+
+- [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
+    - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
+    
   - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
     - [**\[Best Long Paper\]** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)
     - [**\[Best Short Paper\]** Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
