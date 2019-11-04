@@ -9,8 +9,8 @@
 
 
   - [ICLR 2019](https://iclr.cc/Conferences/2019/Awards)
-    - [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
-    - [The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7)
+    - [**\[Best Paper\]** Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
+    - [**\[Best Paper\]** The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7)
 
   - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
     - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
@@ -18,7 +18,8 @@
     - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
     
   - [ICML 2019](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8)
-    - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
+    - [**\[Best Paper\]** Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
+    - [**\[Best Paper\]** Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/pdf/1903.03571.pdf)
  
   - [ICCV 2019](https://medium.com/syncedreview/iccv-2019-best-papers-announced-27a1a21311e1)
     - [**\[Best Paper\]** SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
