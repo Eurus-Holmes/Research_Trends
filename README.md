@@ -4,8 +4,8 @@
 ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-> Inspired by [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html), this repository collects the Best Papers from the **DL&ML&NLP&CV** Top Conferences.
-> ***The Best Paper is future Research Trends!***
+> Inspired by [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html) and [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics), this repository collects the Best Papers from the **DL&ML&NLP&CV** Top Conferences, also including statistics and visualization keywords of accepted papers from Top Conferences.
+> ***They are future Research Trends!***
 
 
   - [ICLR 2019](https://iclr.cc/Conferences/2019/Awards)
@@ -41,4 +41,5 @@
     - [**\[Best Paper\]** SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
     - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
     
+
 
