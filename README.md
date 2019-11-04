@@ -11,6 +11,7 @@
   - [ICLR 2019](https://iclr.cc/Conferences/2019/Awards)
     - [**\[Best Paper\]** Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
     - [**\[Best Paper\]** The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/ICLR2019/frequency.png)
 
   - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
     - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
