@@ -42,6 +42,10 @@
       - [Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](https://www.aclweb.org/anthology/P19-1568)
 
 - [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
+    - [**\[Best Paper\]** Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
+    - [**\[Best Paper Runner-UP\]** Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275.pdf)
+    - [**\[Best Resource Paper\]** The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English](https://www.aclweb.org/anthology/D19-1632.pdf)
+    - [**\[Best Demo Paper\]** AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
     
  - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
