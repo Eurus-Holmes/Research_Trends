@@ -20,6 +20,10 @@
     - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
     - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
+ 
+  - [NeurIPS 2019](https://medium.com/@NeurIPSConf/neurips-2019-paper-awards-807e41d0c1e)
+    - [**\[Outstanding Paper Award\]** Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise.pdf)
+    - [**\[Outstanding New Directions Paper Award\]** Uniform convergence may be unable to explain generalization in deep learning](https://papers.nips.cc/paper/9336-uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning.pdf)
     
   - [ICML 2019](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8)
     - [**\[Best Paper\]** Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
