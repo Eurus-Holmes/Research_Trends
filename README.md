@@ -27,7 +27,7 @@
 
   - [ICML 2020](https://icml.cc/Conferences/2020/Awards)
     - [**\[Best Paper\]** On Learning Sets of Symmetric Elements](https://proceedings.icml.cc/static/paper_files/icml/2020/1625-Paper.pdf)
-    - [**\[Best Paper\]** Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/pdf/1903.03571.pdf)
+    - [**\[Best Paper\]** Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
     
     
 ## 2019
