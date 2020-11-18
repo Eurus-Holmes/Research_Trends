@@ -58,19 +58,24 @@
     - [**\[Best Paper\]** The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7)
     - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/ICLR2019/frequency.png)
 
-  - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
-    - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
-    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
-    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
- 
   - [NeurIPS 2019](https://medium.com/@NeurIPSConf/neurips-2019-paper-awards-807e41d0c1e)
     - [**\[Outstanding Paper Award\]** Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise.pdf)
     - [**\[Outstanding New Directions Paper Award\]** Uniform convergence may be unable to explain generalization in deep learning](https://papers.nips.cc/paper/9336-uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning.pdf)
-    
+  
   - [ICML 2019](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8)
     - [**\[Best Paper\]** Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
     - [**\[Best Paper\]** Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/pdf/1903.03571.pdf)
  
+  - [AAAI 2019](https://aaai.org/Awards/paper.php)
+    - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
+    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
+    
+  - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
+    - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
+    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
+    
   - [ICCV 2019](https://medium.com/syncedreview/iccv-2019-best-papers-announced-27a1a21311e1)
     - [**\[Best Paper\]** SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
     - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
@@ -87,14 +92,14 @@
       - [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267)
       - [Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](https://www.aclweb.org/anthology/P19-1568)
 
-- [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
+  - [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
     - [**\[Best Paper\]** Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
     - [**\[Best Paper Runner-UP\]** Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275.pdf)
     - [**\[Best Resource Paper\]** The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English](https://www.aclweb.org/anthology/D19-1632.pdf)
     - [**\[Best Demo Paper\]** AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
     
- - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
+  - [NAACL 2019](https://naacl2019.org/blog/best-papers/)
     - [**\[Best Long Paper\]** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)
     - [**\[Best Short Paper\]** Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422)
     - [**\[Best Resource Paper\]** CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421)
