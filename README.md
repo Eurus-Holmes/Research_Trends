@@ -31,8 +31,11 @@
   
   - [ECCV 2020](https://eccv2020.eu/awards/)
     - [**\[Best Paper\]** RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)
-    - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
-    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/ICCV2019/keywords.png)
+    - **\[Best Paper Honorable Mention\]**
+      - [Towards Streaming Perception](https://arxiv.org/pdf/2005.10420.pdf)
+      - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
+    - [**\[Best Demo\]** Inter-Homines: Distance-Based Risk Estimation for Human Safety](https://arxiv.org/pdf/2007.10243.pdf)
+  
     
     
 ## 2019
