@@ -17,8 +17,8 @@
   
   - [CVPR 2020](http://cvpr2020.thecvf.com/node/817)
     - [**\[Best Paper\]** Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf)
-    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
-    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
+    - [**\[Best Student Paper\]** BSP-Net: Generating Compact Meshes via Binary Space Partitioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/hoya012/CVPR-2020-Paper-Statistics)
     
   - [ICLR 2019](https://iclr.cc/Conferences/2019/Awards)
     - [**\[Best Paper\]** Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
