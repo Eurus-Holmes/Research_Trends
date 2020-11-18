@@ -14,6 +14,11 @@
   - [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
     - **No Best Paper Awards This Year**
     - [**\[Statistics and Visualization\]**](https://github.com/shaohua0116/ICLR2020-OpenReviewData)
+  
+  - [CVPR 2020](http://cvpr2020.thecvf.com/node/817)
+    - [**\[Best Paper\]** Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf)
+    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
     
   - [ICLR 2019](https://iclr.cc/Conferences/2019/Awards)
     - [**\[Best Paper\]** Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7)
