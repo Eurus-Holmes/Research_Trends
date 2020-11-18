@@ -36,6 +36,19 @@
       - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
     - [**\[Best Demo\]** Inter-Homines: Distance-Based Risk Estimation for Human Safety](https://arxiv.org/pdf/2007.10243.pdf)
   
+  - [ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
+    - [**\[Best Paper\]** Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)
+    - **[Honorable Mention Papers – Main Conference]** 
+      - [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)
+      - [Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://www.aclweb.org/anthology/2020.acl-main.448.pdf)
+    - [**\[Best Theme Paper\]** Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)
+    - [**[Honorable Mention Paper – Theme]** How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://www.aclweb.org/anthology/2020.acl-main.465.pdf)
+    - [**\[Best Demonstration Paper\]** GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf)
+    - **[Honorable Mention Papers – Demonstrations]** 
+      - [Torch-Struct: Deep Structured Prediction Library](https://www.aclweb.org/anthology/2020.acl-demos.38.pdf)
+      - [Prta: A System to Support the Analysis of Propaganda Techniques in the News](https://arxiv.org/pdf/2005.05854.pdf)
+      
+      
     
     
 ## 2019
