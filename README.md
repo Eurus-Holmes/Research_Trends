@@ -26,7 +26,7 @@
  
   - [AAAI 2020](https://aaai.org/Awards/paper.php)
     - [**\[Best Paper\]** WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
-    - [**\[Best Student Paper\]** Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](https://arxiv.org/pdf/1809.01357.pdf)
+    - [**\[Best Student Paper\]** Fair Division of Mixed Divisible and Indivisible Goods](https://arxiv.org/pdf/1911.07048.pdf)
 
   - [CVPR 2020](http://cvpr2020.thecvf.com/node/817)
     - [**\[Best Paper\]** Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf)
