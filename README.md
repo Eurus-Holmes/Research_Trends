@@ -68,8 +68,7 @@
  
   - [AAAI 2019](https://aaai.org/Awards/paper.php)
     - [**\[Best Paper\]** How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
-    - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
-    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
+    - [**\[Best Student Paper\]** Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](https://arxiv.org/pdf/1811.10092.pdf)
     
   - [CVPR 2019](https://medium.com/syncedreview/cvpr-2019-attracts-9k-attendees-best-papers-announced-imagenet-honoured-10-years-later-bc244888907a)
     - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
