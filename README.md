@@ -28,6 +28,11 @@
   - [ICML 2020](https://icml.cc/Conferences/2020/Awards)
     - [**\[Best Paper\]** On Learning Sets of Symmetric Elements](https://proceedings.icml.cc/static/paper_files/icml/2020/1625-Paper.pdf)
     - [**\[Best Paper\]** Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
+  
+  - [ECCV 2020](https://eccv2020.eu/awards/)
+    - [**\[Best Paper\]** RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)
+    - [**\[Best Student Paper\]** PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility](https://arxiv.org/pdf/1903.10008.pdf)
+    - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/ICCV2019/keywords.png)
     
     
 ## 2019
