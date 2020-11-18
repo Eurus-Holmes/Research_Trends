@@ -25,7 +25,7 @@
     - [**\[Best Paper\]** Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
  
   - [AAAI 2020](https://aaai.org/Awards/paper.php)
-    - [**\[Best Paper\]** How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
+    - [**\[Best Paper\]** WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
     - [**\[Best Student Paper\]** Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](https://arxiv.org/pdf/1809.01357.pdf)
 
   - [CVPR 2020](http://cvpr2020.thecvf.com/node/817)
