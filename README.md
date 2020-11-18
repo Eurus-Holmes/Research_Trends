@@ -67,7 +67,7 @@
     - [**\[Best Paper\]** Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/pdf/1903.03571.pdf)
  
   - [AAAI 2019](https://aaai.org/Awards/paper.php)
-    - [**\[Best Paper\]** A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://www.ri.cmu.edu/wp-content/uploads/2019/05/cvpr2019.pdf)
+    - [**\[Best Paper\]** How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
     - [**\[Best Student Paper\]** Reinforced Cross-Modal Matching & Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/pdf/1811.10092.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/Eurus-Holmes/Research_Trends/blob/master/CVPR2019/keywords.png)
     
