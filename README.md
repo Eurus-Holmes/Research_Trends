@@ -53,7 +53,7 @@
       - [Prta: A System to Support the Analysis of Propaganda Techniques in the News](https://arxiv.org/pdf/2005.05854.pdf)
   
   - [EMNLP 2020](https://2020.emnlp.org/blog/2020-11-19-best-papers)
-    - [**\[Best Paper\]** Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
+    - [**\[Best Paper\]** Digital voicing of Silent Speech](https://www.aclweb.org/anthology/2020.emnlp-main.445.pdf)
     - [**\[Best Paper Runner-UP\]** Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275.pdf)
     - [**\[Best Resource Paper\]** The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English](https://www.aclweb.org/anthology/D19-1632.pdf)
     - [**\[Best Demo Paper\]** AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
