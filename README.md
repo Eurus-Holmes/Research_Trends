@@ -57,7 +57,8 @@
     - **\[Honourable Mention Papers\]** 
       - [If beam search is the answer, what was the question?](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf)
       - [GLUCOSE: GeneraLized and COntextualized Story Explanations](https://arxiv.org/pdf/2009.07758.pdf)
-      - [Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems]()
+      - [Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems](https://www.aclweb.org/anthology/2020.emnlp-main.326.pdf)
+      - [Visually Grounded Compound PCFGs]()
     - [**\[Best Demo Paper\]** AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
      
