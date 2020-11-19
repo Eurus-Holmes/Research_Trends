@@ -55,8 +55,8 @@
   - [EMNLP 2020](https://2020.emnlp.org/blog/2020-11-19-best-papers)
     - [**\[Best Paper\]** Digital voicing of Silent Speech](https://www.aclweb.org/anthology/2020.emnlp-main.445.pdf)
     - **\[Honourable Mention Papers\]** 
-      - [If beam search is the answer, what was the question?](https://www.aclweb.org/anthology/D19-1275.pdf)
-    - [**\[Best Resource Paper\]** The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English](https://www.aclweb.org/anthology/D19-1632.pdf)
+      - [If beam search is the answer, what was the question?](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf)
+      - [GLUCOSE: GeneraLized and COntextualized Story Explanations]()
     - [**\[Best Demo Paper\]** AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
     - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
      
