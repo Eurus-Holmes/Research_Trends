@@ -60,7 +60,6 @@
       - [Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems](https://www.aclweb.org/anthology/2020.emnlp-main.326.pdf)
       - [Visually Grounded Compound PCFGs](https://www.aclweb.org/anthology/2020.emnlp-main.354.pdf)
     - [**\[Best Demonstration Paper\]** 🤗 Transformers: State-of-the-art Natural Language Processing](https://www.aclweb.org/anthology/2020.emnlp-demos.6.pdf)
-    - [**\[Statistics and Visualization\]**](https://github.com/roomylee/EMNLP-2019-Papers)
      
      
 ## 2019
