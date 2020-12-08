@@ -21,8 +21,8 @@
     - [**\[Statistics and Visualization\]**](https://github.com/shaohua0116/ICLR2020-OpenReviewData)
     
   - [NeurIPS 2020](https://syncedreview.com/2020/12/07/open-ais-gpt-3-paper-shares-neurips-2020-best-paper-awards-with-politecnico-di-milano-cmu-and-uc-berkeley/)
-    - [**\[Outstanding Paper Award\]** Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise.pdf)
-    - [**\[Outstanding New Directions Paper Award\]** Uniform convergence may be unable to explain generalization in deep learning](https://papers.nips.cc/paper/9336-uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning.pdf)
+    - [**\[Best Paper\]** Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+    - [**\[Best Paper\]** No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium](https://proceedings.neurips.cc/paper/2020/file/5763abe87ed1938799203fb6e8650025-Paper.pdf)
   
   - [ICML 2020](https://icml.cc/Conferences/2020/Awards)
     - [**\[Best Paper\]** On Learning Sets of Symmetric Elements](https://proceedings.icml.cc/static/paper_files/icml/2020/1625-Paper.pdf)
