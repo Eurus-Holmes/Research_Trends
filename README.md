@@ -24,6 +24,7 @@
     - [**\[Best Paper\]** Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
     - [**\[Best Paper\]** No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium](https://proceedings.neurips.cc/paper/2020/file/5763abe87ed1938799203fb6e8650025-Paper.pdf)
     - [**\[Best Paper\]** Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nystrom Method](https://proceedings.neurips.cc/paper/2020/file/342c472b95d00421be10e9512b532866-Paper.pdf)
+    - [**\[Test of Time Award\]** Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://papers.nips.cc/paper/2011/file/218a0aefd1d1a4be65601cc6ddc1520e-Paper.pdf)
   
   - [ICML 2020](https://icml.cc/Conferences/2020/Awards)
     - [**\[Best Paper\]** On Learning Sets of Symmetric Elements](https://proceedings.icml.cc/static/paper_files/icml/2020/1625-Paper.pdf)
