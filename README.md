@@ -23,6 +23,7 @@
   - [NeurIPS 2020](https://syncedreview.com/2020/12/07/open-ais-gpt-3-paper-shares-neurips-2020-best-paper-awards-with-politecnico-di-milano-cmu-and-uc-berkeley/)
     - [**\[Best Paper\]** Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
     - [**\[Best Paper\]** No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium](https://proceedings.neurips.cc/paper/2020/file/5763abe87ed1938799203fb6e8650025-Paper.pdf)
+    - [**\[Best Paper\]** Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nystrom Method](https://proceedings.neurips.cc/paper/2020/file/342c472b95d00421be10e9512b532866-Paper.pdf)
   
   - [ICML 2020](https://icml.cc/Conferences/2020/Awards)
     - [**\[Best Paper\]** On Learning Sets of Symmetric Elements](https://proceedings.icml.cc/static/paper_files/icml/2020/1625-Paper.pdf)
